@@ -178,7 +178,7 @@ version = "0.22.5"
 
 [[Polar]]
 deps = ["Distributed", "MacroTools", "Printf", "Random", "Requires", "SpecialFunctions", "StaticArrays"]
-git-tree-sha1 = "24e5681d177f3cbc8b8a514d60ddce12918ea0d4"
+git-tree-sha1 = "13cc26a6531e49fcee0ae1a4a217210981da40f2"
 repo-rev = "master"
 repo-url = "https://github.com/jneu-research/Polar.jl"
 uuid = "615491be-8abd-4147-8151-6344c916fc82"
