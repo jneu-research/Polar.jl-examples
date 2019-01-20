@@ -8,6 +8,7 @@ This repository is intended for Julia v1.0 and above.
 ## Support
 
 The code is provided as is, without any warranties or guarantees (neither implicit nor explicit).
+Use at your own risk!
 
 
 ## Known Issues
@@ -27,7 +28,7 @@ julia -e 'using IJulia; notebook(dir=".")'
 Please cite the use of any material in this repository as:
 * J. Neu, ''Polar.jl: Julia implementation of polar coding'', URL: https://jneu.net/Polar.jl
   ```
-  @MISC{Polar.jl,
+  @MISC{Polar_jl,
     author = {Neu, Joachim},
     title = {{Polar.jl}: {Julia} implementation of polar coding},
     howpublished = {\url{https://jneu.net/Polar.jl}},
